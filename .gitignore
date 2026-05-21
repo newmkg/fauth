@@ -1,0 +1,73 @@
+cat .gitignore 
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Logs
+*.log
+
+# Executables
+*.exe
+*.out
+*.app
+
+node_modules/
+
+# codeblocks,vim,emacs
+build/
+**/build/
+bin/
+**/bin/
+*/Debug/
+*/Release/
+**/data/
+*.save
+*.depend
+*~
+*.swp
+
+# OS
+.DS_Store
+
+.env
+.env.*
+*.db
+*.sqlite
+*.gcda
+*.gcno
+
+# Secrets / credentials
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+firebase-adminsdk*.json
+serviceAccount*.json
+secrets/
+config/private/
+gmon.out
