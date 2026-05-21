@@ -109,3 +109,27 @@ Error:
 ## License
 
 MIT License
+
+## Commercial / Paid support
+
+This project is free and open-source under the MIT License.
+
+
+## Commercial / Paid support
+
+This project is free and open-source under the MIT License.
+
+Commercial / paid support is available for:
+
+- installation and setup
+- integration with C++/Drogon applications
+- Firebase Auth integration
+- Unix socket IPC customization
+- systemd deployment
+- debugging and performance tuning
+- custom feature development
+
+For paid/commercial support, contact:
+
+- Email: support@mohitkrgupta.dev
+- GitHub: https://github.com/newmkg
